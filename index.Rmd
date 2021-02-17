@@ -1,28 +1,28 @@
 ---
-title: "Thesis title (not title case)"
-author: "Your name"
+title: "Pokemon GO intersection with teaching, politics and more"
+author: "Martin Silerio-Vazquez"
 site: bookdown::bookdown_site
 output: bookdown::pdf_book
 documentclass: isuthesis
 fontsize: 11pt
 bibliography: [resources/refs1.bib, resources/refs2.bib]
 biblio-style: apa
-url: 'http://your.website.com/thesis-repo-name'
-github-repo: username/thesis-repo-name
+url: 'https://github.com/martinsilerio/isu-thesis'
+github-repo: martinsilerio/isu-thesis
 dedicate: true
 degree: DOCTOR OF PHILOSOPHY
 level: doctoral
 formal: dissertation
 major: Statistics
 mprof:
-  - Your Major Prof
+  - Heike Hofmann
 member:
-  - Committee Member
-  - Committee Member
-  - Committee Member
-  - Committee Member
+  - Alicia Carriquiry
+  - Dan Nordman
+  - Ulrike Genschel
+  - Dave Peterson
 abstract: |
-  This is your abstract.
+  Location-based mobile games started getting popular back in...
 ---
 
 ```{r setup, include=FALSE}
