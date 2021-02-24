@@ -42,7 +42,7 @@ knitr::opts_chunk$set(
 
 # PROBLEM STATEMENT
 
-State the problem.
+Pokémon Go...
 
 # OVERVIEW
 
